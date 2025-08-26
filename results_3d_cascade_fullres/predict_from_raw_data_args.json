@@ -1,0 +1,11 @@
+{
+    "folder_with_segs_from_prev_stage": "/mnt/10T/qycui/1Code/nnUNet/results_3d_lower",
+    "list_of_lists_or_source_folder": "/mnt/10T/qycui/1Code/nnUNet/Dataset/nnUNet_raw/Dataset003_Heart/imagesTs",
+    "num_parts": 1,
+    "num_processes_preprocessing": 3,
+    "num_processes_segmentation_export": 3,
+    "output_folder_or_list_of_truncated_output_files": "OUTPUT_FOLDER",
+    "overwrite": true,
+    "part_id": 0,
+    "save_probabilities": false
+}
